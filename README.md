@@ -8,9 +8,9 @@ This repository is a collection of all the solutions I've completed for challeng
 Frontend Mentor is a platform that provides real-world challenges to improve your coding skills. These challenges cover various aspects of front-end development including HTML, CSS, JavaScript, and frameworks like React.
 
 ## Challenges Completed
-| Challenge Name | Link to Solution | Live Preview |
-|----------------|------------------|--------------|
-| Social-Links-Profile    | [Social-Links-Profile](https://github.com/hichamweblog/FEM-Social-Links-Profile)    | [Preview](https://dz-social-links-profile.netlify.app/) |
+| Challenge Name | Link to Solution | Other Solutions | Live Preview |
+|----------------|------------------|--------------|--------------|
+| Social-Links-Profile    | [Social-Links-Profile](https://github.com/hichamweblog/FEM-Social-Links-Profile) | - | [Preview](https://dz-social-links-profile.netlify.app/) |
 
 
 Feel free to explore each challenge solution by following the provided links.
