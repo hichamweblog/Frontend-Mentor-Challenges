@@ -10,8 +10,6 @@ Frontend Mentor is a platform that provides real-world challenges to improve you
 ## Challenges Completed
 | Challenge Name | Link to Solution |  Live Preview |
 |----------------|------------------|--------------|
-|Newbie|
-|------|
 | Recipe page | [Recipe page Solution](#) | [Recipe page Preview](#) |
 | Social links profile | [Social links profile Solution](#) | [Social links profile Preview](#) |
 | Blog preview card | [Blog preview card Solution](#) | [Blog preview card Preview](#) |
