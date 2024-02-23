@@ -10,32 +10,8 @@ Frontend Mentor is a platform that provides real-world challenges to improve you
 ## Challenges Completed
 | Challenge Name | Link to Solution |  Live Preview |
 |----------------|------------------|--------------|
-| Recipe page | [Recipe page Solution](#) | [Recipe page Preview](#) |
-| Social links profile | [Social links profile Solution](#) | [Social links profile Preview](#) |
-| Blog preview card | [Blog preview card Solution](#) | [Blog preview card Preview](#) |
-| FAQ accordion | [FAQ accordion Solution](#) | [FAQ accordion Preview](#) |
-| Workit landing page | [Workit landing page Solution](#) | [Workit landing page Preview](#) |
-| Results summary component | [Results summary component Solution](#) | [Results summary component Preview](#) |
-| Product preview card component | [Product preview card component Solution](#) | [Product preview card component Preview](#) |
-| Skilled e-learning landing page | [Skilled e-learning landing page Solution](#) | [Skilled e-learning landing page Preview](#) |
-| Interactive rating component | [Interactive rating component Solution](#) | [Interactive rating component Preview](#) |
-| QR code component | [QR code component Solution](#) | [QR code component Preview](#) |
-| NFT preview card component | [NFT preview card component Solution](#) | [NFT preview card component Preview](#) |
-| Equalizer landing page | [Equalizer landing page Solution](#) | [Equalizer landing page Preview](#) |
-| Order summary component | [Order summary component Solution](#) | [Order summary component Preview](#) |
-| Stats preview card component | [Stats preview card component Solution](#) | [Stats preview card component Preview](#) |
-| Meet landing page | [Meet landing page Solution](#) | [Meet landing page Preview](#) |
-| 3-column preview card component | [3-column preview card component Solution](#) | [3-column preview card component Preview](#) |
-| Pod request access landing page | [Pod request access landing page Solution](#) | [Pod request access landing page Preview](#) |
-| Profile card component | [Profile card component Solution](#) | [Profile card component Preview](#) |
-| Social proof section | [Social proof section Solution](#) | [Social proof section Preview](#) |
-| Article preview component | [Article preview component Solution](#) | [Article preview component Preview](#) |
-| Four card feature section | [Four card feature section Solution](#) | [Four card feature section Preview](#) |
-| Base Apparel coming soon page | [Base Apparel coming soon page Solution](#) | [Base Apparel coming soon page Preview](#) |
-| Intro component with sign-up form | [Intro component with sign-up form Solution](#) | [Intro component with sign-up form Preview](#) |
-| Single price grid component | [Single price grid component Solution](#) | [Single price grid component Preview](#) |
-| Ping single column coming soon page | [Ping single column coming soon page Solution](#) | [Ping single column coming soon page Preview](#) |
-| Huddle landing page with a single introductory section | [Huddle landing page with a single introductory section Solution](#) | [Huddle landing page with a single introductory section Preview](#) |
+| Recipe page | [Recipe page Solution](#) | [Recipe page Preview](https://dz-recipe-page.netlify.app/) |
+| Social links profile | [Social links profile Solution](#) | [Social links profile Preview](https://dz-social-links-profile.netlify.app/) |
 
 
 
