@@ -10,8 +10,8 @@ Frontend Mentor is a platform that provides real-world challenges to improve you
 ## Challenges Completed
 | Challenge Name | Link to Solution |  Live Preview |
 |----------------|------------------|--------------|
-| Recipe page | [Recipe page Solution](#) | [Recipe page Preview](https://dz-recipe-page.netlify.app/) |
-| Social links profile | [Social links profile Solution](#) | [Social links profile Preview](https://dz-social-links-profile.netlify.app/) |
+| Recipe page | [Recipe page Solution](https://www.frontendmentor.io/solutions/recipe-page-8-dQC6qsSg) | [Recipe page Preview](https://dz-recipe-page.netlify.app/) |
+| Social links profile | [Social links profile Solution](https://www.frontendmentor.io/solutions/responsive-social-links-profile-htmlcss-fWpdCXLrMy) | [Social links profile Preview](https://dz-social-links-profile.netlify.app/) |
 
 
 
