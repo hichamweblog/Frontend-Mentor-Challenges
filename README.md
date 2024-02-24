@@ -21,8 +21,6 @@ Feel free to explore each challenge solution by following the provided links.
 ## How to Use This Repository
 If you're interested in checking out any of the solutions, simply click on the corresponding "Link to Solution" above. Each challenge solution is organized into its own directory, containing the necessary HTML, CSS, and JavaScript files. You can download or clone this repository to your local machine and explore the solutions further.
 
-## Contributing
-If you'd like to contribute your solutions to the challenges in this repository, feel free to fork this repository, add your solutions, and submit a pull request. Please ensure your solutions are well-organized and include all necessary files.
 
 ## Feedback
 If you have any feedback on the solutions or would like to suggest improvements, please open an issue or reach out to me directly.
