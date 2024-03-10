@@ -11,9 +11,9 @@ Frontend Mentor is a platform that provides real-world challenges to improve you
 | Challenge Name     | Link to Solution                                       | Live Preview                                      | Technologies Used                           |
 |--------------------|--------------------------------------------------------|---------------------------------------------------|---------------------------------------------|
 | Recipe page        | [Recipe page Solution](https://github.com/hichamweblog/FEM-Recipe-Page)               | [Recipe page Preview](https://dz-recipe-page.netlify.app/)   | HTML, CSS                       |
-| Social links profile | [Social links profile Solution](https://github.com/hichamweblog/FEM-Social-Links-Profile) | [Social links profile Preview](https://dz-social-links-profile.netlify.app/) | HTML, CSS, JavaScript                       |
+| Social links profile | [Social links profile Solution](https://github.com/hichamweblog/FEM-Social-Links-Profile) | [Social links profile Preview](https://dz-social-links-profile.netlify.app/) | HTML, CSS                      |
 | FAQ accordion      | [FAQ accordion Solution](https://github.com/hichamweblog/FEM-FAQ-accordion)             | [FAQ accordion Preview](https://dz-faq-accordion.netlify.app/)   | HTML, CSS, JavaScript                       |
-| Blog Preview Card  | [Blog Preview Card](https://github.com/hichamweblog/FEM-Blog-Preview-Card)             | [Blog Preview Card Preview](https://dz-blog-preview-card.netlify.app/) | HTML, CSS                       |
+| Blog Preview Card  | [Blog Preview Card](https://github.com/hichamweblog/FEM-Blog-Preview-Card)             | [Blog Preview Card Preview](https://dz-blog-preview-card.netlify.app/) | HTML, CSS, JavaScript                 |
 | QR Code Component  | [Blog Preview Card](https://github.com/hichamweblog/FEM-QR-Code-Component)             | [Blog Preview Card Preview](https://dz-qr-code-component.netlify.app/) | HTML, CSS                       |
 | Product Preview Card Component | [Blog Preview Card](https://github.com/hichamweblog/FEM-Product-Preview-Card-Component)             | [Blog Preview Card Preview](https://dz-product-preview-card.netlify.app/) | HTML, CSS                       |
 
