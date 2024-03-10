@@ -1,4 +1,4 @@
-# Frontend Mentor Challenges Repository
+# Frontend Mentor Challenges
 
 Welcome to the Frontend Mentor Challenges repository! 
 
