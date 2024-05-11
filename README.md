@@ -18,6 +18,8 @@ Frontend Mentor is a platform that provides real-world challenges to improve you
 | Product Preview Card Component | [Product Preview Card](https://github.com/hichamweblog/FEM-Product-Preview-Card-Component)             | [Product Card Preview](https://dz-product-preview-card.netlify.app/) | HTML, CSS                       |
 | Four Card Feature Section | [Four Card Feature Section](https://github.com/hichamweblog/FEM-Four-Card-Feature-Section)             | [Four Card Feature Section](https://dz-four-card-feature-section.netlify.app/) | HTML, CSS                       |
 | Advice Generator App | [Advice Generator App](https://github.com/hichamweblog/FEM-Advice-Generator-App)             | [Advice Generator App](https://dz-advice-generator.netlify.app/) | HTML, CSS, JavaScript                       |
+
+
 Feel free to explore each challenge solution by following the provided links.
 
 ## How to Use This Repository
