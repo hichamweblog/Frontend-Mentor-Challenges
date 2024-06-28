@@ -19,6 +19,7 @@ Frontend Mentor is a platform that provides real-world challenges to improve you
 | Four Card Feature Section | [Four Card Feature Section](https://github.com/hichamweblog/FEM-Four-Card-Feature-Section)             | [Four Card Feature Section](https://dz-four-card-feature-section.netlify.app/) | HTML, CSS                       |
 | Single price grid component | [Single price grid component](https://github.com/hichamweblog/FEM-Single-Price-Grid-Component)             | [Single price grid component](https://dz-single-price-grid-component.netlify.app/) | HTML, CSS                       |
 | Advice Generator App | [Advice Generator App](https://github.com/hichamweblog/FEM-Advice-Generator-App)             | [Advice Generator App](https://dz-advice-generator.netlify.app/) | HTML, CSS, JavaScript                       |
+| Testimonials Grid Section | [Testimonials Grid Section](https://github.com/hichamweblog/FEM-Testimonials-Grid-Section)             | [Testimonials Grid Section](https://dz-testimonials-grid-section.netlify.app/) | HTML, CSS                      |
 
 
 Feel free to explore each challenge solution by following the provided links.
