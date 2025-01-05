@@ -29,6 +29,7 @@ Frontend Mentor is a platform that provides real-world challenges to improve you
 | Coming Soon Page               | [Coming Soon Page Solution](https://github.com/hichamweblog/FEM-Coming-Soon-Page)                       | [Coming Soon Page Preview](https://dz-coming-soon-page.netlify.app/)                       | HTML, CSS, JavaScript |
 | Social Proof Section           | [Social Proof Section Solution](https://github.com/hichamweblog/FEM-Social-Proof-Section)               | [Social Proof Section Preview](https://dz-social-proof-section.netlify.app/)               | HTML, CSS             |
 | Article Preview Component| [ Article Preview Component Solution](https://github.com/hichamweblog/FEM-Article-Preview-Component)               | [ Article Preview Component Preview](https://dz-article-preview.netlify.app/)               | HTML, CSS, JavaScript             |
+| Newsletter Signup Form| [ Newsletter Signup Form Solution](https://github.com/hichamweblog/FEM-Newsletter-Signup-Form)               | [ Newsletter Signup Form Preview](https://dz-newsletter-signup-form.netlify.app/)               | HTML, CSS, JavaScript             |
 
 
 Feel free to explore each challenge solution by following the provided links.
